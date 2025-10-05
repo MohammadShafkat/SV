@@ -41,16 +41,12 @@ module arb #(WIDTH = 4)
         
       end
         
-        
-    
-      
       
       
     end
     
   end
   
-
   
 endmodule
   
